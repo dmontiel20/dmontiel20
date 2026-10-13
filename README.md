@@ -7,7 +7,7 @@ Especializado en **Sistemas Empotrados**, **Tiempo Real (RTOS/Firmware)** y desa
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos de **robótica móvil autónoma** y **telemetría IoT**.
+- 🔭 Actualmente trabajando en proyectos de **robótica móvil autónoma** y **vision artificial**.
 - 🛠️ Experiencia diseñando firmware en C/C++ para microcontroladores (AVR, ESP32, STM32) y sistemas Linux embebido.
 - 🎯 Interesado en navegación reactiva, control en lazo cerrado (PID, VFF) y protocolos de comunicación en tiempo real.
 
