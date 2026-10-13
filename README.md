@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Daniel 👋
 
 **Ingeniero de Software Embebido & Robótica**  
 Especializado en **Sistemas Empotrados**, **Tiempo Real (RTOS/Firmware)** y desarrollo de arquitecturas robóticas en **ROS 2**.
