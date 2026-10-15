@@ -27,7 +27,7 @@ Especializado en **Sistemas Empotrados**, **Tiempo Real (RTOS/Firmware)** y desa
 
 ### 📂 Proyectos Destacados
 
-- 🤖 **[Follow Ball with VFF](https://github.com/dmontiel20/Vendig-Machine-Arduino):** Sistema reactivo en ROS 2 para seguimiento visual de objetos y evasión de obstáculos en tiempo real mediante campos de fuerzas potenciales (VFF).
+- 🤖 **[Follow Ball with VFF](https://github.com/dmontiel20/Follow-Ball):** Sistema reactivo en ROS 2 para seguimiento visual de objetos y evasión de obstáculos en tiempo real mediante campos de fuerzas potenciales (VFF).
 - 🏎️ **[Smart Robot Car IoT](https://github.com/dmontiel20/Follow-Line-Wifi):** Robot autónomo sigue-líneas con control PID, sensor ultrasónico y puente de telemetría MQTT sobre ESP32-CAM.
 - ⚡ **[ROS 2 Action Server & Clients](https://github.com/dmontiel20/Action-Forward-Turn):** Servidor de acciones personalizado para cinemática móvil con control de avance, giro y cancelación preventiva de metas (*preemption*).
 - ☕ **[Controlador de Máquina Expendedora](https://github.com/dmontiel20/Vendig-Machine-Arduino):** Firmware bare-metal/tiempo real en C++ con FSM, menús en LCD, sensores y supervisión por Watchdog.
