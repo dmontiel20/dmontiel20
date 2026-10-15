@@ -1,6 +1,6 @@
 # ¡Hola! Soy Daniel 👋
 
-**Ingeniero de Software Embebido & Robótica**  
+**Ingeniero de Robótica Software**  
 Especializado en **Sistemas Empotrados**, **Tiempo Real (RTOS/Firmware)** y desarrollo de arquitecturas robóticas en **ROS 2**.
 
 ---
